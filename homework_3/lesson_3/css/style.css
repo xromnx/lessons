@@ -1,0 +1,28 @@
+
+p{
+	color: green;
+}
+h2{
+color: aqua;
+}
+.title{
+	color: blue;
+}
+.text{
+	color: orange;
+}
+#some-id{
+	color: red;
+}
+div{
+	color: fuchsia;
+}
+.article p{
+	color: rgb(37, 31, 77)
+}
+.article > p{
+	color: rgb(161, 126, 10);
+}
+[class*="en"]{
+	color: rgb(0, 255, 72);
+}
